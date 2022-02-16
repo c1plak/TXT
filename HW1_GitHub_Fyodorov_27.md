@@ -1,3 +1,5 @@
+ # TXT
+ 
  1. Создать внешний репозиторий c названием TXT. === На вэбе Repositories --> New --> Repos Name:TXT --> Check "Add a README file" --> Press "Create repository"
  2. Клонировать репозиторий TXT на локальный компьютер. === `git clone <HTTPS repo>`
  3. Внутри локального TXT создать файл “new.txt”. === `touch new.txt`
